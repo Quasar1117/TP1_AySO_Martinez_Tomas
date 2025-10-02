@@ -1,1 +1,3 @@
-# TP1_AySO_Martinez_Tomas
+# TP1_AySO_Martinez_TomasAlumno: Tomas Martinez
+Division: 114
+Turno: Maniana
